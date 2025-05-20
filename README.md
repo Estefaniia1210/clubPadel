@@ -2,3 +2,4 @@ Este repositorio es un proyecto Java sencillo creado como práctica de control d
 Este fichero es modificado por la persona que lo ha bifurcado, desde su clon local. 
 Fichero modificado por Carlos Braganza
 
+Colaboracion en este proyecto
